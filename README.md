@@ -11,7 +11,7 @@ Vrinda Store wants to create an annual sales report for 2022. So, that they can 
   - Dataset is an excel (xlsx) file, analyse data if it is enough to solve our problem.
 
 - Step 2 : Data Cleaning 
-  - Fiters were applied to the columns to check the null or duplicate values.
+  - Filters were applied to the columns to check the null or duplicate values.
   - Checked the inconsistent data. For instance, in the gender column, the letters "M" and "Men" stand for men, and the letters "W" and "Women" stand for women. For consistency, either use 'M' and 'W' or 'Men' and 'Women'.
 
 - Step 3 : Data Processing
